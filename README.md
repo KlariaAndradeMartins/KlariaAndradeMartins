@@ -1,16 +1,19 @@
-### Hi there 👋
+Oi! Seja bem-vindo(a)!
+Sou uma estudante de Sistemas de Informação na UFU. No momento, estou fazendo estagio e participando do PET - SI.
 
-<!--
-**KlariaAndradeMartins/KlariaAndradeMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estagiária em engenharia e análise de dados.
+- 🌱 Estou estudando o sistema operacional linux no momento e raciocinio lógico para maratonas de programação.
+- 📫 Contate-me: Klariaandrade@gmail.com
+- 😄 Pronome: Ela/Dela
+- ⚡ Fun fact: Fiz dois semestres de marketing digital, no entanto acabei escolhendo sistemas de informação.
 
-Here are some ideas to get you started:
+Hobbies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎶 Escutar música e ler livros.
+- 🌱 Passeios ao ar livre.
+
+ <div align="left">
+                    <a href="https://github.com/KlariaAndradeMartins">
+                    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KlariaAndradeMartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+                    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlariaAndradeMartins&layout=compact&langs_count=7&theme=dark"/>
+                </div>
