@@ -1,4 +1,4 @@
-Oi! Seja bem-vindo(a)!
+# Oi! Seja bem-vindo(a)!
 Sou uma estudante de Sistemas de Informação na UFU. No momento, estou fazendo estagio e participando do PET - SI.
 
 - 🔭 Atualmente estagiária em engenharia e análise de dados.
@@ -7,11 +7,12 @@ Sou uma estudante de Sistemas de Informação na UFU. No momento, estou fazendo 
 - 😄 Pronome: Ela/Dela
 - ⚡ Fun fact: Fiz dois semestres de marketing digital, no entanto acabei escolhendo sistemas de informação.
 
-Hobbies
+# Hobbies
 
 - 🎶 Escutar música e ler livros.
 - 🌱 Passeios ao ar livre.
 
+# Git Status
  <div align="left">
                     <a href="https://github.com/KlariaAndradeMartins">
                     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KlariaAndradeMartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
