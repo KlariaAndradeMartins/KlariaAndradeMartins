@@ -5,7 +5,6 @@ Sou uma estudante de Sistemas de Informação na UFU. No momento, estou fazendo 
 - 🌱 Estou estudando o sistema operacional linux no momento e raciocinio lógico para maratonas de programação.
 - 📫 Contate-me: Klariaandrade@gmail.com
 - 😄 Pronome: Ela/Dela
-- ⚡ Fun fact: Fiz dois semestres de marketing digital, no entanto acabei escolhendo sistemas de informação.
 
 # Hobbies
 
