@@ -1,15 +1,15 @@
 # Oi! Seja bem-vindo(a)!
-Sou uma estudante de Sistemas de Informação na UFU. No momento, estou fazendo estagio e participando do PET - SI.
+Sou uma estudante de Sistemas de Informação na UFU. No momento, estou trabalhando como engenheira de dados jr. na empresa wisebyte.
 
-- 🔭 Atualmente estagiária em engenharia e análise de dados.
-- 🌱 Estou estudando o sistema operacional linux no momento e raciocinio lógico para maratonas de programação.
+- 🔭 Atualmente Engenheira de Dados Júnior na empresa Wisebyte.
+- 🌱 Estou estudando Machine Leaning e Deep Learning.
 - 📫 Contate-me: Klariaandrade@gmail.com
 - 😄 Pronome: Ela/Dela
 
 # Hobbies
 
 - 🎶 Escutar música e ler livros.
-- 🌱 Passeios ao ar livre.
+- 🌱 Viagens
 
 # Git Status
  <div align="left">
